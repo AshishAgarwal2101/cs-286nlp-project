@@ -9,11 +9,11 @@ NLP Project for CS 286
 The above models are trained and added in the google drive here: https://drive.google.com/drive/folders/1FSEQRCJJ5Kb-oih_o9CjJGHSbM0ku9ra?usp=sharing
 
 ## Files and Folders
-1. nlp_api.pynb - The main API file that is used to return data to the frontend.
-2. exploratory_data_analysis.pynb - This is used to analyze the dataset using graphs and diagrams.
-3. roberta_train.pynb - This is used to train a pretrained Roberta model using our dataset, and save the model.
-4. lstm_train.pynb - This is used to train a pretrained LSTM model using our dataset, and save the model.
-5. deberta_train.pynb - This is used to train a pretrained DeBERTa model using our dataset, and save the model.
+1. nlp_api.ipynb - The main API file that is used to return data to the frontend.
+2. exploratory_data_analysis.ipynb - This is used to analyze the dataset using graphs and diagrams.
+3. roberta_train.ipynb - This is used to train a pretrained Roberta model using our dataset, and save the model.
+4. lstm_train.ipynb - This is used to train a pretrained LSTM model using our dataset, and save the model.
+5. deberta_train.ipynb - This is used to train a pretrained DeBERTa model using our dataset, and save the model.
 6. frontend - This folder contains the ReactJS frontend code.
 
 ## How to Run (Steps 1-4 and step 11 are optional)
