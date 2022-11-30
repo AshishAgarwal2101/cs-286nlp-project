@@ -1,6 +1,13 @@
 # cs-286nlp-project
 NLP Project for CS 286
 
+## Models Used
+1. Roberta
+2. LSTM
+3. DeBERTa
+<br/>
+The above models are trained and added in the google drive here: https://drive.google.com/drive/folders/1FSEQRCJJ5Kb-oih_o9CjJGHSbM0ku9ra?usp=sharing
+
 ## How to Run (Steps 1-4 and step 11 are optional)
 1. Install NodeJS version 14.18.0
 2. Open terminal in frontend directory.
